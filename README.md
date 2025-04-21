@@ -25,11 +25,11 @@
 
 - 👨‍💻 I’m currently working on Web Design Projects.
 
-- 🌱 I’m currently learning AWS & Reactjs framework.
+- 🌱 I’m currently learning AWS.
 
 - 💬 Ask me anything 🤓
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alvaro-jose-avendaño-vargas-64ab861b9)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alvaro-jose-avendano)
 
 <h3>🚀 Some Tools I Use</h3>
 <p align="left">
@@ -44,7 +44,7 @@
 ---
 <p>
 
-![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=System32-cmd&show_icons=true&theme=tokyonight)
+![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=AJAV-Dev&show_icons=true&theme=tokyonight)
 
 </p>
 
